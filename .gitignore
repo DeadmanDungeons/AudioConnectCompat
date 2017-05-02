@@ -1,0 +1,6 @@
+*.class
+.classpath
+.settings/
+build.properties
+/bin
+/target
